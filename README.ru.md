@@ -77,6 +77,9 @@
      ```bash
      defaults write com.adobe.CSXS.11 PlayerDebugMode 1
      ```
+
+4. Перезапустите After Effects и перейдите в меню: **Window > Extensions > GodRect** (Окно > Расширения > GodRect).
+
 <br>
 <div align="center">
   <h2>
@@ -84,4 +87,3 @@
   </h2>
 </div>
 <br>
-5. Перезапустите After Effects и перейдите в меню: **Window > Extensions > GodRect** (Окно > Расширения > GodRect).
