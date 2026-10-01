@@ -1,3 +1,11 @@
+<br>
+<div align="center">
+  <h2>
+    <a href="https://github.com/MugGod/GodRect/releases/latest">📥 СКАЧАТЬ ПОСЛЕДНЮЮ ВЕРСИЮ</a>
+  </h2>
+</div>
+<br>
+
 <div align="right">
   <h3><a href="README.md">🌍 English</a> | <strong>🇷🇺 Русский</strong></h3>
 </div>
@@ -69,5 +77,11 @@
      ```bash
      defaults write com.adobe.CSXS.11 PlayerDebugMode 1
      ```
-
+<br>
+<div align="center">
+  <h2>
+    <a href="https://github.com/MugGod/GodRect/releases/latest">📥 СКАЧАТЬ ПОСЛЕДНЮЮ ВЕРСИЮ</a>
+  </h2>
+</div>
+<br>
 5. Перезапустите After Effects и перейдите в меню: **Window > Extensions > GodRect** (Окно > Расширения > GodRect).
