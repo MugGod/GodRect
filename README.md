@@ -1,3 +1,11 @@
+<br>
+<div align="center">
+  <h2>
+    <a href="https://github.com/MugGod/GodRect/releases/latest">📥 DOWNLOAD LATEST RELEASE</a>
+  </h2>
+</div>
+<br>
+
 <div align="right">
   <h3>🌍 <strong>English</strong> | <a href="README.ru.md">🇷🇺 Русский</a></h3>
 </div>
@@ -72,3 +80,11 @@
      ```
 
 4. Restart After Effects and go to the menu: **Window > Extensions > GodRect**.
+
+<br>
+<div align="center">
+  <h2>
+    <a href="https://github.com/MugGod/GodRect/releases/latest">📥 DOWNLOAD LATEST RELEASE</a>
+  </h2>
+</div>
+<br>
