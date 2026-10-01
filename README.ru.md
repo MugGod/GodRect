@@ -1,3 +1,7 @@
+<div align="right">
+  <h3><a href="README.md">🌍 English</a> | <strong>🇷🇺 Русский</strong></h3>
+</div>
+
 # ⚡ GodRect Extension
 <p align="center">
   <img width="32%" alt="Снимок экрана 2026-10-01 202753" src="https://github.com/user-attachments/assets/be3f4696-cd05-400c-8a9d-5065b77af694" />
