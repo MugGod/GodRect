@@ -1,7 +1,7 @@
 <br>
 <div align="center">
   <h2>
-    <a href="https://github.com/MugGod/GodRect/releases/latest">📥 СКАЧАТЬ ПОСЛЕДНЮЮ ВЕРСИЮ</a>
+    <a href="../../releases/latest">📥 СКАЧАТЬ ПОСЛЕДНЮЮ ВЕРСИЮ</a>
   </h2>
 </div>
 <br>
@@ -83,7 +83,7 @@
 <br>
 <div align="center">
   <h2>
-    <a href="https://github.com/MugGod/GodRect/releases/latest">📥 СКАЧАТЬ ПОСЛЕДНЮЮ ВЕРСИЮ</a>
+    <a href="../../releases/latest">📥 СКАЧАТЬ ПОСЛЕДНЮЮ ВЕРСИЮ</a>
   </h2>
 </div>
 <br>
